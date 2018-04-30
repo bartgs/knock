@@ -1,0 +1,8 @@
+Package: knock
+Version: 0.1.0
+Architecture: amd64
+Section: utils
+Priority: optional
+Depends: 
+Maintainer: gysens.bart@gmx.com
+Description: Knock is a command line port knocking utily.
